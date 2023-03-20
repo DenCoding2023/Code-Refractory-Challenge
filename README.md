@@ -85,14 +85,16 @@ You are required to submit the following for review:
 
 What was modified in HTML file to make it meet the Semantics HTML
 
-1. <!-- header-->
-2. <!-- change the div to nav in HTML and in CSS-->
-3. <!-- modified the div to Id -->
-4. <!-- added Alt tags to images -->
-5. <!-- change div to asside -->
-6. <!-- change dive to footer-->
-7. <!-- added a (Br) empty line inbetween the main image-->
-8. <!-- change div to main-->
-9. <!-- change title to Digital Resource site--->
-10. <!-- change (div) tag to (asside) tag -->
-11. 
+1. <-- header--->
+2. <-- change the div to nav in HTML and in CSS-->
+3. <-- modified the div to Id -->
+4. <-- added Alt tags to images -->
+5. <-- change div to asside -->
+6. <-- change dive to footer-->
+7. <-- added a (Br) empty line inbetween the main image-->
+8. <-- change div to main-->
+9. <-- change title to Digital Resource site--->
+
+In the CSS style,  We made the following modifcation 
+10. <-- change (div) tag to (asside) tag -->
+11. <-- change the header in css to nav-->
