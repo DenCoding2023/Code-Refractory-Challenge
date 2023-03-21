@@ -1,101 +1,56 @@
-The assingment was to !!
+Refractory Challenge Assignment
+
+## Descriptions:
+This was a “Refractory Challenge”. The goal was to modify the webpage to meet the accessibility standards. 
+
+## Table of Content
+We have the drop down “Menu” which contain:
+Search Engine Optimization
+Online Reputation  Management
+Social Media Marketing
+Section II
+Lead Generation
+Brand Awareness
+Cost Management
+
+## Usage
+
+It is a site provided by Horisoen. The company work with “Search Engine Optimization”, ONline Reputation Management” and “Social Media Marketing”
+
+## Credits
+In this class challenge we work in a collaboration with Deving Nunez and Jesse Colon. 
+
+## License
+MIT license through the use of GITHUB.
+
+## Areas that were modified in the Assignment:
+1. In this challenge we modified the HTML to meet the Semati HTML     standard
+2. The goal was to make the accessible to standards
+3. Show how we markdown files
+4. nclude a readme file. 
+
+## The structure and descriptive comments were added to the following areas:
+1. The Header
+2. Main Content
+3. Alt tags to images
+4. Page footer
+
+# The HTML changes are as follows
+1.	Div to Nav in the HTML and in the CSS
+2.	Modified the div class to Id.
+3.	Added the Alt tags to the image.
+4.	Change the div to aside.
+5.	Change div to footer.
+6.	Added a (br) to the empty line in between the Main image.
+7. 	Change div to main
+8.	Change the title from “webpage’” to “Digital Resources Site”
+9.	Change div tag to aside tag
+10.	Change the “header” in the “css” to “nav”
+
+##  Screenshot
 ![Alt text](assets/images/screen%20shot%20of%20Dennis%20Work.png)
 
 ![Alt text](assets/images/2%20part%20of%20the%20Screenshot%202023-03-20%20232450.png)
 
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
-
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
-
-This Challenge is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the preceding acceptance criteria plus the following code improvements:
-
-  * Application's links all function correctly.
-
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-  * Application's CSS file is properly commented.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles mock-up provided in the Challenge instructions (at least 90%).
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-
-What was modified in HTML file to make it meet the Semantics HTML
-
-1. <-- header--->
-2. <-- change the div to nav in HTML and in CSS-->
-3. <-- modified the div to Id -->
-4. <-- added Alt tags to images -->
-5. <-- change div to asside -->
-6. <-- change dive to footer-->
-7. <-- added a (Br) empty line inbetween the main image-->
-8. <-- change div to main-->
-9. <-- change title to Digital Resource site--->
-10. <-- change (div) tag to (asside) tag -->
-11. <-- change the header in css to nav-->
+## Link to the site:
+https://dencoding2023.github.io/Code-Refractory-Challenge/
