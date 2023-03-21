@@ -1,5 +1,8 @@
 The assingment was to !!
 ![Alt text](assets/images/screen%20shot%20of%20Dennis%20Work.png)
+
+![Alt text](assets/images/2%20part%20of%20the%20Screenshot%202023-03-20%20232450.png)
+
 ## User Story
 
 ```
