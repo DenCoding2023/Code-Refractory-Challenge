@@ -1,5 +1,5 @@
 The assingment was to !!
-
+![Alt text](assets/images/screen%20shot%20of%20Dennis%20Work.png)
 ## User Story
 
 ```
@@ -94,7 +94,5 @@ What was modified in HTML file to make it meet the Semantics HTML
 7. <-- added a (Br) empty line inbetween the main image-->
 8. <-- change div to main-->
 9. <-- change title to Digital Resource site--->
-
-In the CSS style,  We made the following modifcation 
 10. <-- change (div) tag to (asside) tag -->
 11. <-- change the header in css to nav-->
